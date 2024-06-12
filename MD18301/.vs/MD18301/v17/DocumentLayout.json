@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65D12A-462B-B2DE-C205-54B42676FF58}|Assembly-CSharp.csproj|D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\assets\\scripts\\attributesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65D12A-462B-B2DE-C205-54B42676FF58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attributesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65D12A-462B-B2DE-C205-54B42676FF58}|Assembly-CSharp.csproj|D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\assets\\scripts\\damagetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65D12A-462B-B2DE-C205-54B42676FF58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65D12A-462B-B2DE-C205-54B42676FF58}|Assembly-CSharp.csproj|d:\\workspace\\fpt\\ky-6\\gam3d_md18301\\asm\\md18301\\assets\\scripts\\damagepopupgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65D12A-462B-B2DE-C205-54B42676FF58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagepopupgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65D12A-462B-B2DE-C205-54B42676FF58}|Assembly-CSharp.csproj|d:\\workspace\\fpt\\ky-6\\gam3d_md18301\\asm\\md18301\\assets\\scripts\\uibillboarding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65D12A-462B-B2DE-C205-54B42676FF58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uibillboarding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65D12A-462B-B2DE-C205-54B42676FF58}|Assembly-CSharp.csproj|D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\assets\\scripts\\attackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65D12A-462B-B2DE-C205-54B42676FF58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIBillboarding.cs",
+              "DocumentMoniker": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\Assets\\Scripts\\UIBillboarding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIBillboarding.cs",
+              "ToolTip": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\Assets\\Scripts\\UIBillboarding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIBillboarding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:26:07.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DamagePopUpGenerator.cs",
+              "DocumentMoniker": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\Assets\\Scripts\\DamagePopUpGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamagePopUpGenerator.cs",
+              "ToolTip": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\Assets\\Scripts\\DamagePopUpGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamagePopUpGenerator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA7wBIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:57:35.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DamageTester.cs",
+              "DocumentMoniker": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\Assets\\Scripts\\DamageTester.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageTester.cs",
+              "ToolTip": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\Assets\\Scripts\\DamageTester.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageTester.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:33:51.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttributesManager.cs",
+              "DocumentMoniker": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\Assets\\Scripts\\AttributesManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttributesManager.cs",
+              "ToolTip": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\Assets\\Scripts\\AttributesManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttributesManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:25:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttackControl.cs",
+              "DocumentMoniker": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\Assets\\Scripts\\AttackControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackControl.cs",
+              "ToolTip": "D:\\Workspace\\FPT\\KY-6\\GAM3D_MD18301\\ASM\\MD18301\\Assets\\Scripts\\AttackControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackControl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:09:07.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
